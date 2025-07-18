@@ -1,0 +1,2 @@
+# Cryptographic-Algorithm-Development-based-on-Caesar-Cipher
+This report explores the evolution of cryptography from ancient ciphers to modern tools like the Enigma machine while explaining key security principles like the CIA triad. It focuses on enhancing the Caesar Cipher using Caesar shifts, cyclic shifts, and XOR, and presents a newly developed algorithm tested for secure encryption and decryption. 
